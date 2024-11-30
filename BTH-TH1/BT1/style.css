@@ -1,0 +1,23 @@
+.flower-item{
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
+
+.flower-item img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.flower-item h3{
+    color: black;
+}
+
+.flower-item p{
+    color: black;
+    line-height: 1.6;
+}
